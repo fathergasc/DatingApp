@@ -497,3 +497,6 @@ bin
 obj
 packages
 /.vscode
+/API/dating.db-shm
+/API/dating.db-wal
+/API/appsettings.json
