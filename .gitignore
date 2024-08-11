@@ -500,3 +500,4 @@ packages
 /API/dating.db-shm
 /API/dating.db-wal
 /API/appsettings.json
+/API/appsettings.Development.json
